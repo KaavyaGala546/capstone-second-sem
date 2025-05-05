@@ -40,7 +40,7 @@ const ExpertCard = ({ expert }) => (
         className="absolute inset-0 w-full h-full object-cover"
       />
       <div className="relative z-10 bg-white bg-opacity-80 w-full px-4 py-2 text-center">
-        <h4 className="font-semibold text-sm">{expert.name}</h4>
+        <h4 className="font-semibold text-gray-800 text-sm">{expert.name}</h4>
         <p className="text-xs text-gray-600">{expert.role}</p>
       </div>
     </div>
@@ -57,7 +57,7 @@ export default function ExpertSlider() {
           Meet Our Experts
         </button>
       </div>
-      <h2 className="text-center text-2xl md:text-3xl font-semibold mb-10">
+      <h2 className="text-center text-2xl text-black md:text-3xl font-semibold mb-10">
         PERSONALIZED GUIDANCE, <br className="hidden md:block" /> PROVEN EXPERTISE
       </h2>
 

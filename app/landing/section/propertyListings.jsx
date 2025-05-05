@@ -8,7 +8,7 @@ export default function PropertyListings() {
     <section id='properties' className="py-16 bg-white">
       <div className="container mx-auto px-4">
         <div className=" mb-12">
-          <h2 className="text-md border border-1 inline px-4 py-2 rounded rounded-full font-bold mb-4">Featured Properties</h2>
+          <h2 className="text-md border border-1 inline px-4 py-2 rounded text-black rounded-full font-bold mb-4">Featured Properties</h2>
           <p className="text-lg text-gray-600 mt-8">
             DISCOVER HOMES TAILORED TO YOUR LIFESTYLE AND NEEDS
           </p>
@@ -32,7 +32,7 @@ export default function PropertyListings() {
                   </div>
                 </div>
                 <div className="p-6">
-                  <h3 className="text-xl font-bold mb-2">{property.title}</h3>
+                  <h3 className="text-xl font-bold text-black  mb-2">{property.title}</h3>
                   <p className="text-gray-600 mb-4">{property.location}</p>
                   <div className="flex justify-between text-sm text-gray-500 mb-4">
                     <span>{property.bedrooms} Beds</span>

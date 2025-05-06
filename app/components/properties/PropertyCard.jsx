@@ -14,12 +14,12 @@ export default function PropertyCard({ property }) {
             fill
             className="object-cover"
           />
-          <div className="absolute top-4 left-4 bg-white px-3 py-1 rounded-full text-sm font-semibold">
+          <div className="absolute top-4 left-4 bg-white px-3 py-1 rounded-full text-sm font-semibold text-black">
             {property.type}
           </div>
         </div>
         <div className="p-6">
-          <h3 className="text-xl font-bold mb-2">{property.title}</h3>
+          <h3 className="text-xl font-bold mb-2 text-black">{property.title}</h3>
           <p className="text-gray-600 mb-4">{property.location}</p>
           <div className="flex justify-between text-sm text-gray-500 mb-4">
             <span>{property.bedrooms} Beds</span>

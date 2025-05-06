@@ -55,7 +55,7 @@ export default function Testimonials() {
         <div className="bg-gray-100 rounded-full text-gray-600 text-sm px-4 py-1 inline-block mb-4">
           What Our Clients Say
         </div>
-        <h2 className="text-3xl font-bold text-gray-800 mb-4 leading-tight">
+        <h2 className="text-3xl font-bold text-gray-800 mb-4 leading-tight text-white">
           TRUSTED BY MANY,<br />LOVED BY ALL
         </h2>
         <p className="text-gray-600">

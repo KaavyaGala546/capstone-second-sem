@@ -40,7 +40,7 @@ const Navbar = () => {
                         />
                     </svg>
                 </div>
-                <h1 className="text-xl font-bold">ESTATES</h1>
+                <h1 className="text-xl font-bold text-black">ESTATES</h1>
             </Link>
 
             {/* Navigation Links */}

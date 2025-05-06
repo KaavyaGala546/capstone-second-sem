@@ -21,19 +21,19 @@ export default function WhoWeAre() {
             {/* Stats */}
             <div className="grid grid-cols-2 gap-6 text-gray-800">
               <div>
-                <h2 className="text-2xl font-bold">200+</h2>
+                <h2 className="text-2xl font-bold text-white">200+</h2>
                 <p className="text-sm text-gray-500">Projects Complete</p>
               </div>
               <div>
-                <h2 className="text-2xl font-bold">70+</h2>
+                <h2 className="text-2xl font-bold text-white">70+</h2>
                 <p className="text-sm text-gray-500">Happy Clients</p>
               </div>
               <div>
-                <h2 className="text-2xl font-bold">$10M+</h2>
+                <h2 className="text-2xl font-bold text-white">$10M+</h2>
                 <p className="text-sm text-gray-500">Project Value</p>
               </div>
               <div>
-                <h2 className="text-2xl font-bold">90%</h2>
+                <h2 className="text-2xl font-bold text-white">90%</h2>
                 <p className="text-sm text-gray-500">Client Retention Rate</p>
               </div>
             </div>
@@ -54,7 +54,7 @@ export default function WhoWeAre() {
           {/* Vision */}
           <div className="bg-gray-100 p-6 rounded-xl shadow-sm">
             <div className="text-2xl mb-2">👁️</div>
-            <h3 className="text-lg font-semibold mb-2">Our Vision</h3>
+            <h3 className="text-lg font-semibold mb-2 text-black">Our Vision</h3>
             <p className="text-gray-600 text-sm">
               To be a leader in the real estate market, offering unparalleled services in
               luxury, sustainability, and vacation properties.
@@ -64,7 +64,7 @@ export default function WhoWeAre() {
           {/* Mission */}
           <div className="bg-gray-100 p-6 rounded-xl shadow-sm">
             <div className="text-2xl mb-2">🎯</div>
-            <h3 className="text-lg font-semibold mb-2">Our Mission</h3>
+            <h3 className="text-lg font-semibold mb-2 text-black">Our Mission</h3>
             <p className="text-gray-600 text-sm">
               To create exceptional living experiences through innovation, sustainability,
               and personalized service in modern real estate.

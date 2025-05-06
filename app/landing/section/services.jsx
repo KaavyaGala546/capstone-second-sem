@@ -6,12 +6,12 @@ const services = [
   {
     icon: <FaTags size={24} />,
     title: 'Property Sales',
-    description: 'Expertly promoting and selling your property to attract qualified buyers.',
+    description: 'Expertly promoting and renting your property to attract qualified buyers.',
   },
   {
     icon: <FaHandshake size={24} />,
     title: 'Buyer Representation',
-    description: 'Guiding you through the home-buying process, prioritizing your interests.',
+    description: 'Guiding you through the home-renting process, prioritizing your interests.',
   },
   {
     icon: <FaKey size={24} />,
@@ -26,7 +26,7 @@ const services = [
   {
     icon: <FaBalanceScale size={24} />,
     title: 'Property Valuation',
-    description: 'Accurately assessing your property’s value for sales, purchases, or investments.',
+    description: 'Accurately assessing your property’s value for rent.',
   },
   {
     icon: <FaCogs size={24} />,

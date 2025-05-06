@@ -21,19 +21,19 @@ export default function WhoWeAre() {
             {/* Stats */}
             <div className="grid grid-cols-2 gap-6 text-gray-800">
               <div>
-                <h2 className="text-2xl font-bold text-white">200+</h2>
+                <h2 className="text-2xl font-bold text-black">200+</h2>
                 <p className="text-sm text-gray-500">Projects Complete</p>
               </div>
               <div>
-                <h2 className="text-2xl font-bold text-white">70+</h2>
+                <h2 className="text-2xl font-bold text-black">70+</h2>
                 <p className="text-sm text-gray-500">Happy Clients</p>
               </div>
               <div>
-                <h2 className="text-2xl font-bold text-white">$10M+</h2>
+                <h2 className="text-2xl font-bold text-black">$10M+</h2>
                 <p className="text-sm text-gray-500">Project Value</p>
               </div>
               <div>
-                <h2 className="text-2xl font-bold text-white">90%</h2>
+                <h2 className="text-2xl font-bold text-black">90%</h2>
                 <p className="text-sm text-gray-500">Client Retention Rate</p>
               </div>
             </div>

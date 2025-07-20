@@ -1,5 +1,5 @@
 // app/data/properties.js
-"use client"
+"use client "
 export const properties = [
     {
       id: 1,
@@ -25,7 +25,7 @@ export const properties = [
         price: "₹4,80,000/m",
         description: "Luxury mansion with stunning views...",
         features: ["Swimming Pool", "Home Theater", "Gym"],
-        images: ["/assets/properties/property1-3.avif", "/assets/properties/property1-2.avif"]
+        images: ["/assets/properties/property1-7.jpg", "/assets/properties/property1-2.avif"]
       },
       {
         id: 3,
@@ -38,7 +38,7 @@ export const properties = [
         price: "₹2,60,000/m",
         description: "Luxury mansion with stunning views...",
         features: ["Swimming Pool", "Home Theater", "Gym"],
-        images: ["/assets/properties/property1-4.avif", "/assets/properties/property1-2.avif"]
+        images: ["/assets/properties/property1-8.jpg", "/assets/properties/property1-2.avif"]
       },
       {
         id: 4,
@@ -51,7 +51,7 @@ export const properties = [
         price: "₹5,87,000/m",
         description: "Luxury mansion with stunning views...",
         features: ["Swimming Pool", "Home Theater", "Gym"],
-        images: ["/assets/properties/property1-5.avif", "/assets/properties/property1-2.avif"]
+        images: ["/assets/properties/property1-5.jpg", "/assets/properties/property1-2.avif"]
       },
       {
         id: 5,
@@ -64,7 +64,7 @@ export const properties = [
         price: "₹7,92,000/m",
         description: "Luxury mansion with stunning views...",
         features: ["Swimming Pool", "Home Theater", "Gym"],
-        images: ["/assets/properties/property1-6.avif", "/assets/properties/property1-2.avif"]
+        images: ["/assets/properties/property1-6.jpg", "/assets/properties/property1-2.avif"]
       },
       {
         id: 6,
@@ -77,7 +77,7 @@ export const properties = [
         price: "₹1,90,000/m",
         description: "Luxury mansion with stunning views...",
         features: ["Swimming Pool", "Home Theater", "Gym"],
-        images: ["/assets/properties/property1-7.avif", "/assets/properties/property1-2.avif"]
+        images: ["/assets/properties/property1-9.jpg", "/assets/properties/property1-2.avif"]
       },
 
     

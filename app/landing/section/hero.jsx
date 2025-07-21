@@ -63,7 +63,7 @@ export default function EstatesWebsite() {
               <p className="text-sm">Happy Clients</p>
             </div>
             <div className="text-white">
-              <h3 className="text-5xl font-bold">$10M<sup>+</sup></h3>
+              <h3 className="text-5xl font-bold">₹100Cr<sup>+</sup></h3>
               <p className="text-sm">Project Value</p>
             </div>
           </div>
